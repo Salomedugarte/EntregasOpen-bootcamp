@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <h3>Libros Favoritos</h3>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Cosas que piensas cuando te muerdes las uñas</td>
+                <td>Amalia Andrade</td>
+                <td>8 de febrero de 2017</td>
+                <td><a href="https://www.amazon.com/-/es/Amalia-Andrade/dp/6070745647/ref=sr_1_3?keywords=uno+siempre+cambia+al+amor+de+su+vida&qid=1664485629&qu=eyJxc2MiOiIxLjg4IiwicXNhIjoiMS40OSIsInFzcCI6IjEuMjgifQ%3D%3D&sprefix=uno+siem%2Caps%2C252&sr=8-3">Cosas que piensas cuando te muerdes las uñas</a> </td>
+            </tr>
+            <div>
+                <br>
+            </div>
+            <tr>
+                <td>Eloquent javascript</td>
+                <td>Marijn Haverbeke</td>
+                <td>4 de diciembre de 2018</td>
+                <td><a href="https://www.amazon.com/-/es/Marijn-Haverbeke/dp/1593279507/ref=sr_1_1?keywords=eloquent+javascript&qid=1664485662&qu=eyJxc2MiOiIxLjE1IiwicXNhIjoiMC40OSIsInFzcCI6IjAuNTAifQ%3D%3D&s=books&sprefix=elocuen%2Cstripbooks-intl-ship%2C310&sr=1-1">Eloquent javascript</a>
+                </td>
+            </tr>
+            <div>
+                <br>
+            </div>
+            <tr>
+                <td>The Metamorphosis</td>
+                <td>Franz Kafka</td>
+                <td>1915</td>
+                <td><a href="https://www.amazon.com/-/es/Franz-Kafka/dp/0553213695/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=Y3JO5D9GOMCI&keywords=metamorphosis+fran&qid=1664485762&s=books&sprefix=metamorfosis+fran%2Cstripbooks-intl-ship%2C207&sr=1-1">The Metamorphosis</a>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
